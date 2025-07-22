@@ -37,6 +37,9 @@ npm run dev
 Open your browser and go to:
 👉 http://localhost:5173
 
+LIVE LINK:-
+https://3dsolarsystem-seven.vercel.app/
+
 🎥 Demo Video
 https://www.loom.com/share/6a0c2203090540e89be4833fcc05b9f9?sid=989d9175-4757-48d4-b486-1d4c83abd83f
 
